@@ -1,5 +1,8 @@
 # Vimaansathi
 
+***Presentation***(https://docs.google.com/presentation/d/12DMhg21gwE2VDnj7sq_z6fyWyqovlUN-k3haEdl5Cmo/edit?usp=sharing)
+***Web app***(http://vimaansathi.herokuapp.com/)
+
 Vimaansathi is a cross platform application that aims to automate Airport
 experience by providing an end-to-end service. Our application is made to help
 the commuters to plan their entire trip efficiently and safely by providing a
