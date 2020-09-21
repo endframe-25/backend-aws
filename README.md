@@ -10,4 +10,12 @@ from the rest is the fact that cab service is synchronized with the flight timin
 which will decrease the waiting time for the cabs and helps the authorities in
 terms of crowd management.
 
+**Dynamic Dispatch**
+
+Cab services plays a integral role in the applicaton which helps in syncronizing. The cab is dynamically dispatched using **Google's S2 Library** the same library Uber uses for demand and dispatch. 12,14,15 level cells were used for computations. 
+
 ![Admin End](https://github.com/endframe-25/backend-aws/blob/master/static/Screenshot%20from%202020-09-22%2000-04-03.png)
+
+**Tired of availing all the services separately?**
+
+![Admin End](https://github.com/endframe25/backend-aws/blob/master/static/Screenshot%20from%202020-09-22%2000-09-35.png)
